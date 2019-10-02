@@ -1,0 +1,125 @@
+{
+  "theme": [
+    {
+      "color": "#7b241c",
+      "backgroundcolor": "#f2d7d5"
+    },
+    {
+      "color": "#633974",
+      "backgroundcolor": "#ebdef0"
+    },
+    {
+      "color": "#1a5276",
+      "backgroundcolor": "#d4e6f1"
+    },
+    {
+      "color": "#117864",
+      "backgroundcolor": "#d1f2eb"
+    },
+    {
+      "color": "#196f3d",
+      "backgroundcolor": "#d4efdf"
+    },
+    {
+      "color": "#935116",
+      "backgroundcolor": "#fae5d3"
+    },
+    {
+      "color": "#797d7f",
+      "backgroundcolor": "#f2f3f4"
+    },
+    {
+      "color": "#212f3c",
+      "backgroundcolor": "#d6dbdf"
+    }
+  ],
+  "menu": {
+    "item0": "images/color.png",
+    "item1": "about",
+    "item2": "skills"
+  },
+  "title": "hello, i'm bahar!",
+  "subtitle": "a computer science engineering student",
+  "links": {
+    "github": "https://github.com/ba-v",
+    "stackoverflow": "https://stackoverflow.com/story/ba-v",
+    "linkdin": "https://www.linkedin.com/in/bahar-amirian-070b13194"
+  },
+  "sections": [
+    {
+      "title": "about",
+      "items": [
+        {
+          "type": "p",
+          "content": "I am a junior computer science engineeing student at shahid beheshti university."
+        },
+        {
+          "type": "p",
+          "content": "as a student learning is my biggest goal now, and i really belive in self-studying. I learned HTML,CSS,JS and ReactJS by watching online courses."
+        },
+        {
+          "type": "p",
+          "content": "beside proggramming, I love sports and arts."
+        },
+        {
+          "type": "p",
+          "content": "I love to learn new things and i wish to learn PHP soon. After that I will start learning some new frameworks."
+        }
+      ]
+    },
+    {
+      "title": "skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "logo": "images/java.png",
+            "title": "java"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "logo": "images/javascript.png",
+            "title": "javascript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "logo": "images/html.png",
+            "title": "html"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "logo": "images/css.png",
+            "title": "css"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "logo": "images/c.png",
+            "title": "c"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "logo": "images/c++.png",
+            "title": "c++"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "logo": "images/react.png",
+            "title": "reactjs"
+          }
+        }
+      ]
+    }
+  ]
+}

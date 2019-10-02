@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    position: fixed;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: #000000;
+    z-index: 10;
+}
+
+#theme {
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.menuparts-left {
+    position: fixed;
+    right: 0;
+    padding: 10px;
+}
